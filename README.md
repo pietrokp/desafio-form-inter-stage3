@@ -1,4 +1,4 @@
-h1 align="center"> Desafio Formulário Intermediário - Explorer Stage 3 </h1>
+<h1 align="center"> Desafio Formulário Intermediário - Explorer Stage 3 </h1>
 
 <p align="center">
 Projetos e desafios realizados no Stage 3 do Programa Explorer da Rocketseat.
